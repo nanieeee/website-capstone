@@ -1,3 +1,4 @@
+<!--blog header and article sections.-->
 <template>
   <Header />
   <div class="bg-white py-24 sm:py-24">

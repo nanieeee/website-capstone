@@ -1,3 +1,4 @@
+<!--contact form coponent including input field-->
 <template>
   <Header />
   <div class="relative isolate overflow-hidden bg-white-900 py-16 sm:py-24 lg:py-32">

@@ -1,4 +1,5 @@
 
+<!--website header incl nav. to be included on every page-->
 <template>
   <header class="bg-teal-100 py-4 px-8">
       <main class="container mx-auto flex flex-row justify-between items-center">

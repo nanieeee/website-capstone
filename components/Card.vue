@@ -1,3 +1,4 @@
+<!--card component-->
 <template>
   <div class="px-4 py-8">
     <h1 class="flex justify-center font-bold text-2xl">Sustainability</h1>

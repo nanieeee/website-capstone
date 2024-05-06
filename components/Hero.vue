@@ -1,3 +1,4 @@
+<!--hero banner for homepage-->
 <template>
   <section class="container mx-auto px-8 py-36 text-center sm:px-12">
 <div
